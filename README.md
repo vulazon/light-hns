@@ -1,6 +1,6 @@
 # Info
 
-Personal fork of Light HNS for playing with my friends.
+Personal version of Light HNS for my own use and playing with my friends.
 
 Original description down below:
 
