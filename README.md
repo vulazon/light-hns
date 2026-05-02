@@ -1,3 +1,9 @@
+# Info
+
+Personal fork of Light HNS for playing with my friends.
+
+Original description down below:
+
 # Light Hide and Seek
 
 A recoding of the classic Hide and Seek gamemode for Garry's Mod that is more secure, optimized and customizable. The reason I've done this is because I want the gamemode to live again, or not to completely die out as it is my favorite gamemode since years.
